@@ -1,0 +1,24 @@
+
+*{
+    background-color: whitesmoke;
+}
+
+h1{
+    text-align: center;
+    font-size: 50px;
+    color: rgb(15, 199, 40);
+}
+
+img{
+  border-radius: 10px;
+}
+
+h2{
+    margin: 50px;
+    font-size: 42px;
+    background-color: aquamarine;
+    text-align: center;
+}
+ul{
+    list-style-type: circle;
+}
